@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-digichat",
-    "version": "1.0.13",
+    "version": "1.0.14",
     "description": "Send WhatsApp messages via digiChat API in n8n workflows",
     "main": "dist/nodes/DigiChatNode.node.js",
     "types": "dist/nodes/DigiChatNode.node.d.ts",
