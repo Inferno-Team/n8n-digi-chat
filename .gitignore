@@ -1,0 +1,6 @@
+/.qodo
+/dist
+/n8n-nodes-digichat-1.0.6.tgz
+/node_modules
+/package-lock.json
+/yarn.lock

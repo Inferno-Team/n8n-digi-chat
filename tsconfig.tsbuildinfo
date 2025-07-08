@@ -1,0 +1,9 @@
+{
+    "root": [
+        "./src/credentials/digichatapi.credentials.ts",
+        "./src/nodes/digichatnode/digichatnode.description.ts",
+        "./src/nodes/digichatnode/digichatnode.node.ts",
+        "./src/nodes/digichatnode/index.ts"
+    ],
+    "version": "5.8.3"
+}
