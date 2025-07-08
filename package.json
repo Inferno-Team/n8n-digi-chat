@@ -5,7 +5,7 @@
     "main": "dist/nodes/DigiChatNode.node.js",
     "types": "dist/nodes/DigiChatNode.node.d.ts",
     "scripts": {
-        "build": "tsc && mkdir -p dist/nodes/DigiChatNode/icons && cp src/icons/*.svg dist/nodes/DigiChatNode/icons/",
+        "build": "tsc && mkdir -p dist/nodes/icons && cp src/nodes/icons/digichat.svg dist/nodes/icons/",
         "dev": "npx tsc --watch",
         "clean": "rm -rf dist"
     },
